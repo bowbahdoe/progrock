@@ -16,7 +16,7 @@ from the ever talented [James Reeves](https://github.com/weavejester).
 <dependency>
     <groupId>dev.mccue</groupId>
     <artifactId>progrock</artifactId>
-    <version>0.0.1</version>
+    <version>2023.08.30</version>
 </dependency>
 ```
 
@@ -24,6 +24,6 @@ from the ever talented [James Reeves](https://github.com/weavejester).
 
 ```
 dependencies {
-    implementation("dev.mccue:progrock:0.0.1")
+    implementation("dev.mccue:progrock:2023.08.30")
 }
 ```
